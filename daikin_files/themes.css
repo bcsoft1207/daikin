@@ -1,0 +1,15 @@
+body, a, #header-pre .menu a:hover i, .JoinNow h1, .JoinNow h2, .loginJoinTalentNetwork p, #WhyJoin h3, .list-standard-wrapper .tblJob p.name_job a, .content_fck, .page-content-pre, .page-contact-pre, .page-forgot-pre, .JoinNow div.row label { color: #333 }
+#header-pre .menu a, #header-pre .navbar-right a { font-size: 16px }
+#header-pre .menu li { padding: 0 16px }
+/* text color theme */ .col_theme, a:hover, header.container-fluid h2.section-title, .news-five-items .box p.viewmore a, .section-grid-career .job h3 a, .all-jobs-pre .browser-job a:hover, .all-jobs-pre .browser-job a.active, .all-jobs-pre .browser-job span, .all-jobs-pre ul li a span, .all-jobs-pre ul li a:hover, .compact-jobs-container .item h2.job a:hover, .result-job-search .bottom-more a:hover, .detail-head-right .company-name a, .detail-head-right .actions-apply a.not-ready, .right-des .link-mail a, .item-member p.name, h2 a.text-right, .current-job .btn-save a.btn, #header-pre .menu li.focus a, .compact-jobs-container .item:hover h2.job a, .result-job-search h1 span, .containerListMy a.focus, #header-pre .menu li.focus ul.submenu li a:hover, .survey-talent .btn-result a.btn, .list-standard-wrapper .tblJob p.name_job a:hover { color: #009acf } 
+/* background color theme */ .join-talent-onclip a, .btn-primary, .socialIcon, #footer-pre, #job-search, .current-job .btn-apply a, .search-jobs-main .chosen-container .chosen-results li.highlighted, #jb_pagination .active, .tblJob tr.header, .EditRecommendJob button, #header-menu-links .btn:hover, #pager li a.activeSlide, .btnContinute a, #container .ui_btnCb, #container .search250 .btnSmall, #container .fontCore .btnSmall, #btnLogin, .JoinNow .loginJoinTalentNetwork a, .JoinNow .joinnowBtn input, .survey-talent .btn-vote a, .scroll_thongke li .scroll_color .bg_center_scroll { background-color: #009acf }
+.btn-primary:hover, .btn-primary:focus, .socialIcon:hover, #container input.ui_btnCb:hover, #btnLogin:hover, .JoinNow .joinnowBtn input:hover, .btnContinute a:hover, .job-detail-pre .column-right .join-talent-onclip a:hover, #container .cb-applyjob .ui_btnCb:hover, #LoginTalentNetwork .loginJoinTalentNetwork a:hover, #back-top a { background-color: #40c8f4 }
+.current-job a.btn, .survey-talent a.btn, .current-job .btn-save a.btn { border-color: #009acf }
+.current-job .btn-save a.btn:hover, .survey-talent .btn-result a.btn:hover { border-color: #40c8f4; color: #40c8f4 }
+.current-job .btn-apply a.btn:hover, .survey-talent .btn-vote a.btn:hover { background-color: #40c8f4; border-color: #40c8f4 }
+.news-five-items .excerpt p.viewmore { color: #40c8f4 }
+.ads-pre.slidebg, #slidehr, #slidehr .bgimage { height: 350px }
+.no-bootstrap #container #header-pre .logo { padding-top: 26px }
+.filter-video { display: none }
+#banner-video .texton { top: 60% }
+#banner-video .join-talent-onclip a { margin-top: 0 }
